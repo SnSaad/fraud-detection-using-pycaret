@@ -1,0 +1,14 @@
+PyCaret is an open-source Python library that facilitates machine learning and model building processes for a wide range of tasks, including fraud detection. It is designed to simplify and automate various steps of the machine learning workflow, making it easier for data scientists and analysts to build, compare, and deploy machine learning models efficiently. Below is a description of how PyCaret can be used for fraud detection:
+
+I have used the preprocessed dataset in pycaret to get the best model for my dataset
+
+## Analysis
+First Some analysis between dependent and independent variables
+
+## Training Model
+I have used the pycaret model to find the best model, with the help of setup() function of pycaret.
+All the train_test split and transformation is done by this function
+
+## Evaluation
+The best model selected for this dataset is Logistic Regression
+Then for evaluation all the metrics like precision, recall, accuracy score, confusion matrix and all are used
